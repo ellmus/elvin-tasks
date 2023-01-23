@@ -1,0 +1,11 @@
+h1 {
+  background-color: gray;
+  margin: 0;
+  padding: 50px;
+  color: white;
+}
+
+.aside {
+  background-color: skyblue;
+  color: white;
+}

@@ -1,0 +1,50 @@
+body {
+  margin: 50px 150px;
+}
+
+* {
+  font-family: sans-serif;
+}
+
+h1 {
+  color: #4bcbfe;
+  font-size: 50px;
+}
+
+span {
+  color: black;
+}
+
+.header {
+  background-color: #34454f;
+  padding: 20px 200px;
+  color: white;
+  font-size: 20px;
+  display: flex;
+  gap: 100px;
+  list-style: none;
+}
+
+.image {
+  margin-left: 500px;
+}
+
+.aside {
+  margin-right: 1000px;
+  border: solid 1px;
+  color: gray;
+  list-style: none;
+  font-size: 25px;
+  line-height: 60px;
+  list-style: none;
+}
+
+.footer {
+  background-color: #a3a3a3;
+  padding: 20px 200px;
+  color: white;
+  font-size: 20px;
+  display: flex;
+  gap: 30px;
+  list-style: none;
+}

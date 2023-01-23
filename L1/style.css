@@ -1,0 +1,26 @@
+h1 {
+  background-color: aqua;
+  text-align: center;
+}
+
+p {
+  background-color: rgb(222, 184, 135);
+  width: 200px;
+  height: 300px;
+  line-height: 30px;
+  font-weight: bold;
+  text-align: justify;
+}
+
+div {
+  background-image: url(./12.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-color: #006666;
+  width: 200px;
+  height: 250px;
+  font-size: 30px;
+  color: white;
+  text-align: center;
+  line-height: 40px;
+}
